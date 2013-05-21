@@ -1,0 +1,13 @@
+{
+    "hierarchy": ["Departement", "Produktegruppe", "Konto"],
+    "page_title": "Stadt Winterthur",
+    "description": "Von der Piratenpartei bearbeitete Finanzdaten der Stadt Winterthur.",
+    "h1": "Stadt WInterthur",
+    "h2": "... H2",
+    "data_link": "http://projects.piratenpartei.ch/projects/opendata-winterthur",
+    "data_title": "Projekt",
+    "gross_cost_label": "Bruttokosten",
+    "revenue_label": "Erlöse",
+    "data_url": "/data/winterthur/data.json",
+    "cache_url": "/data/winterthur/cache.json"
+}
