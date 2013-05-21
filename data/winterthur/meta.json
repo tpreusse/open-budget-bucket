@@ -1,13 +1,23 @@
 {
     "hierarchy": ["Departement", "Produktegruppe", "Konto"],
-    "page_title": "Stadt Winterthur",
+    "page_title": "Finanzdaten der Stadt Winterthur",
     "description": "Von der Piratenpartei bearbeitete Finanzdaten der Stadt Winterthur.",
-    "h1": "Stadt WInterthur",
-    "h2": "... H2",
+    "h1": "Finanzdaten Winterthur",
+    "h2": "Bearbeitung: <a href=\"http://winterthur.zh.piratenpartei.ch\">Piratenpartei   Winterthur</a>",
     "data_link": "http://projects.piratenpartei.ch/projects/opendata-winterthur",
-    "data_title": "Projekt",
-    "gross_cost_label": "Bruttokosten",
-    "revenue_label": "Erlöse",
+    "data_title": "Datenquelle",
+    "gross_cost_label": "Aufwand",
+    "revenue_label": "Ertrag",
     "data_url": "/data/winterthur/data.json",
-    "cache_url": "/data/winterthur/cache.json"
+    "cache_url": "/data/winterthur/cache.json",
+    "value": {
+        "label": "Rechnung 2012",
+        "type": "accounts",
+        "year": "2012"
+    },
+    "value2": {
+        "label": "Budget 2013",
+        "type": "budgets",
+        "year": "2013"
+    }
 }
