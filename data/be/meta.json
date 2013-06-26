@@ -9,7 +9,7 @@
     "gross_cost_label": "Kosten",
     "revenue_label": "Erlöse",
     "data_url": "/data/be/data.json",
-    "data_url": "/data/be/cache.json",
+    "cache_url": "/data/be/cache.json",
     "value": {
         "label": "Rechnung 2012",
         "type": "accounts",
