@@ -1,0 +1,23 @@
+{
+    "hierarchy": ["Dienststelle", "Produktegruppe", "Produkt"],
+    "page_title": "Budget Beringen - 2013",
+    "description": "",
+    "h1": "Gemeinde Beringen",
+    "h2": "2013",
+    "data_link": "",
+    "data_title": "",
+    "gross_cost_label": "Aufwand",
+    "revenue_label": "Ertrag",
+    "data_url": "/data/beringen/data.json",
+    "cache_url": "/data/beringen/cache.json",
+    "value": {
+        "label": "2013",
+        "type": "budgets",
+        "year": "2013"
+    },
+    "value2": {
+        "label": "2012",
+        "type": "budgets",
+        "year": "2012"
+    }
+}
